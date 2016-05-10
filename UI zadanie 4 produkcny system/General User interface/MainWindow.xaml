@@ -1,0 +1,31 @@
+﻿<Window x:Class="UI_zadanie_4_produkcny_system.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UI_zadanie_4_produkcny_system"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="720" Width="1330"
+        WindowState="Maximized"
+        WindowStyle="ThreeDBorderWindow">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black" Offset="0"/>
+                <GradientStop Color="#FF242FA0" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <ListBox x:Name="listBox" HorizontalAlignment="Left" Height="574" Margin="32,60,0,0" VerticalAlignment="Top" Width="229"/>
+        <Label x:Name="label" Content="Facts" HorizontalAlignment="Left" Margin="50,29,0,0" VerticalAlignment="Top" Foreground="#E82424" Width="52"/>
+        <ListBox x:Name="listBox1" HorizontalAlignment="Left" Height="574" Margin="346,60,0,0" VerticalAlignment="Top" Width="325"/>
+        <Label x:Name="label1" Content="Rules" HorizontalAlignment="Left" Height="36" Margin="356,19,0,0" VerticalAlignment="Top" Width="71" Foreground="#FFC30E0E"/>
+        <Button x:Name="init_btn" Content="Load" HorizontalAlignment="Left" Height="52" Margin="807,603,0,0" VerticalAlignment="Top" Width="172" Click="init_btn_Click"/>
+        <Button x:Name="start_btn" Content="Run" HorizontalAlignment="Left" Height="78" Margin="1041,577,0,0" VerticalAlignment="Top" Width="234" Click="start_btn_Click" />
+        <ListBox x:Name="listBox2" HorizontalAlignment="Left" Height="157" VerticalAlignment="Top" Width="528" RenderTransformOrigin="0.53,0.45" Margin="747,129,0,0">
+          
+        </ListBox>
+        <Label x:Name="label2" Content="messages" HorizontalAlignment="Left" Margin="836,60,0,0" VerticalAlignment="Top" Foreground="#FFA62121"/>
+
+
+    </Grid>
+</Window>

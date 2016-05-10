@@ -1,0 +1,14 @@
+c:\users\rony\documents\visual studio 2015\Projects\UI zadanie 4 produkcny system\UI zadanie 4 produkcny system\bin\Debug\UI zadanie 4 produkcny system.exe.config
+C:\Users\Rony\documents\visual studio 2015\Projects\UI zadanie 4 produkcny system\UI zadanie 4 produkcny system\bin\Debug\UI zadanie 4 produkcny system.exe
+C:\Users\Rony\documents\visual studio 2015\Projects\UI zadanie 4 produkcny system\UI zadanie 4 produkcny system\bin\Debug\UI zadanie 4 produkcny system.pdb
+C:\Users\Rony\documents\visual studio 2015\Projects\UI zadanie 4 produkcny system\UI zadanie 4 produkcny system\obj\Debug\UI zadanie 4 produkcny system.csprojResolveAssemblyReference.cache
+C:\Users\Rony\documents\visual studio 2015\Projects\UI zadanie 4 produkcny system\UI zadanie 4 produkcny system\obj\Debug\UI zadanie 4 produkcny system_MarkupCompile.cache
+C:\Users\Rony\documents\visual studio 2015\Projects\UI zadanie 4 produkcny system\UI zadanie 4 produkcny system\obj\Debug\UI zadanie 4 produkcny system_MarkupCompile.lref
+C:\Users\Rony\documents\visual studio 2015\Projects\UI zadanie 4 produkcny system\UI zadanie 4 produkcny system\obj\Debug\UI zadanie 4 produkcny system.g.resources
+C:\Users\Rony\documents\visual studio 2015\Projects\UI zadanie 4 produkcny system\UI zadanie 4 produkcny system\obj\Debug\UI_zadanie_4_produkcny_system.Properties.Resources.resources
+C:\Users\Rony\documents\visual studio 2015\Projects\UI zadanie 4 produkcny system\UI zadanie 4 produkcny system\obj\Debug\UI zadanie 4 produkcny system.csproj.GenerateResource.Cache
+C:\Users\Rony\documents\visual studio 2015\Projects\UI zadanie 4 produkcny system\UI zadanie 4 produkcny system\obj\Debug\UI zadanie 4 produkcny system.exe
+C:\Users\Rony\documents\visual studio 2015\Projects\UI zadanie 4 produkcny system\UI zadanie 4 produkcny system\obj\Debug\UI zadanie 4 produkcny system.pdb
+C:\Users\Rony\documents\visual studio 2015\Projects\UI zadanie 4 produkcny system\UI zadanie 4 produkcny system\obj\Debug\General User interface\MainWindow.g.cs
+C:\Users\Rony\documents\visual studio 2015\Projects\UI zadanie 4 produkcny system\UI zadanie 4 produkcny system\obj\Debug\General User interface\App.g.cs
+C:\Users\Rony\documents\visual studio 2015\Projects\UI zadanie 4 produkcny system\UI zadanie 4 produkcny system\obj\Debug\General User interface\MainWindow.baml
